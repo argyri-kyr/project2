@@ -4,3 +4,6 @@ def f():
     print("iro")
 
 f()
+
+def g():
+  print("change")

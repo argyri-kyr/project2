@@ -7,3 +7,6 @@ f()
 
 def g():
   print("change")
+
+def h():
+  return
